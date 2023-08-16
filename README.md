@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karen-t290&label=Profile%20views&color=0e75b6&style=flat" alt="karen-t290" /> </p>
 
-- 🔭 I’m currently working on **I am working on a project about a web page for renting video games with a database.**
+- 🔭 I’m currently working on **a project about a video game rental website with a database..**
 
 - 🌱 I’m currently learning **I am finishing my studies in computer engineering**
 
