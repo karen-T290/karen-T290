@@ -5,17 +5,13 @@
 
 - 🔭 I’m currently working on **a project about a video game rental website with a database..**
 
-- 🌱 I’m currently learning **I am finishing my studies in computer engineering**
-
-- 👯 I’m looking to collaborate on **not at the moment**
+- 🌱 I am currently finishing my studies in computer engineering**
 
 - 🤝 I’m looking for help with **The Java programming language**
 
-- 👨‍💻 All of my projects are available at [Further on](Further on)
+- 👨‍💻 All of my projects are available 
 
-- 📝 I regularly write articles on [No](No)
-
-- 💬 Ask me about **Yes**
+- 💬 Ask me about the field of computer engineering
 
 
 
