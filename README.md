@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KAREN</h1>
-<img align ="center" src=https://media.admagazine.com/photos/61eb22cb9b19d943aa117b30/master/w_1600%2Cc_limit/Girasol.jpg>
+<img align ="center" width=400 src=https://media.admagazine.com/photos/61eb22cb9b19d943aa117b30/master/w_1600%2Cc_limit/Girasol.jpg>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karen-t290&label=Profile%20views&color=0e75b6&style=flat" alt="karen-t290" /> </p>
